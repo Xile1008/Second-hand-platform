@@ -103,7 +103,7 @@ Member: Wang Zhaohan
 ---
 
 ## 🌐 Project Website
-[Campus Second-hand Platform](https://github.com/your-org/Second-hand-platform)  
+[Campus Second-hand Platform](https://github.com/Xile1008/Second-hand-platform?tab=readme-ov-file)  
 *(placeholder link — replace with actual repo URL)*  
 
 ---
