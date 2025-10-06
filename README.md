@@ -1,10 +1,5 @@
 # Campus Second-hand Trading Platform
 
-**Group Number:** 7 (Seven)  
-**Team Name:** Fish Club  
-**Course:** Software Engineering  
-**University:** Macau University of Science and Technology  
-**Date:** 2025-09-28  
 
 ---
 
@@ -14,15 +9,7 @@ Our platform will centralize trading activities, offer structured search and cat
 
 ---
 
-## 👥 Team Profile
 
-| Member           | Role / Strengths                                                                 |
-|------------------|----------------------------------------------------------------------------------|
-| **Wang Zhaohan** (Leader) | Python programming, front-end development, data management, project facilitator |
-| **Zhang Zhichao**         | Back-end development, database design, presentation skills              |
-| **Chen Baifu**            | Requirement communication, documentation writing                        |
-
----
 
 ## 🛠️ Problem Diagnosis
 ### Current Issues
